@@ -95,7 +95,7 @@ To view a particular implementation, switch to the corresponding feature branch.
 Clone the repository:
 
 ```bash
-git clone https://github.com/apnfunk/Operating-System-Projects.git
+git clone https://github.com/priyanka-tech-stack/Operating-Systems.git
 cd Operating-System-Projects
 ```
 
