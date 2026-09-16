@@ -36,7 +36,7 @@ Implemented a POSIX-style command-line shell from scratch in C++ using low-level
 
 To view a particular implementation, switch to the corresponding feature branch.
 
-### 1. [Weighted Round Robin Scheduler](https://github.com/apnfunk/Operating-System-Projects/tree/feature/weighted_rr_scheduler)
+### 1. [Weighted Round Robin Scheduler]
 
 **Focus:** Process Scheduling & CPU Resource Management
 
@@ -47,7 +47,7 @@ To view a particular implementation, switch to the corresponding feature branch.
   
 ---
 
-### 2. [Copy-on-Write (COW) Fork](https://github.com/apnfunk/Operating-System-Projects/tree/feature/COW(copy-on-write))
+### 2. [Copy-on-Write (COW) Fork]
 
 **Focus:** Virtual Memory Optimization
 
@@ -56,7 +56,7 @@ To view a particular implementation, switch to the corresponding feature branch.
 - **Impact:** Significantly reduces memory overhead and fork() latency for large processes.
 ---
 
-### 3. [Demand Paging & MRU Replacement](https://github.com/apnfunk/Operating-System-Projects/tree/feature/demand-paging)
+### 3. [Demand Paging & MRU Replacement]
 
 **Focus:** Memory Virtualisation & Swapping
 
@@ -66,8 +66,7 @@ To view a particular implementation, switch to the corresponding feature branch.
 - 
 ---
 
-### 4. [Large Files & Symbolic Links](https://github.com/apnfunk/Operating-System-Projects/tree/feature/Large-Files-%26-Symbolic-Links)
-
+### 4. [Large Files & Symbolic Links]
 **Focus:** File System Extensions
 
 #### **Large File Support:**
